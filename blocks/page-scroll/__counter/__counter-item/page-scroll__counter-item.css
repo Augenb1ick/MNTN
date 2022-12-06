@@ -1,0 +1,14 @@
+.page-scroll__counter-item {
+    font-family: 'Gilroy';
+    font-size: 18px;
+    line-height: 22px;
+    font-weight: 700;
+
+    text-align: right;
+
+    margin: 0;
+    padding: 0;
+
+    text-decoration: none;
+    color: #FFFFFF;
+}

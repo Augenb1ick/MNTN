@@ -1,0 +1,12 @@
+.paragraph__description {
+    width: 632px;
+    height: 160px;
+
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 32px;
+
+    color: #FFFFFF;
+}

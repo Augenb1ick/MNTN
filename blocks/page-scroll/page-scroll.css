@@ -1,0 +1,11 @@
+.page-scroll{
+    display: flex;
+    flex-direction: row;
+    gap: 32px;
+    margin: auto 0;
+
+    position: fixed;
+    right: 80px;
+    top: 326px; 
+    z-index: 1;
+}

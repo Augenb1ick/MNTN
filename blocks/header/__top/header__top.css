@@ -1,0 +1,12 @@
+.header__top {
+    display: flex;
+    flex-direction: row;
+    padding-top: 70px;
+    padding-bottom: 200px;
+    padding-left: 80px; 
+    padding-right: 80px;
+    margin: 0;
+    justify-content: space-between;
+
+    
+}

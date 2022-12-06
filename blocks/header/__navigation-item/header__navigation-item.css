@@ -1,0 +1,14 @@
+.header__navigation-item {
+    margin: 0;
+    padding: 0;
+
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 22px;
+
+
+    color: #FFFFFF;
+    text-decoration: none;
+}

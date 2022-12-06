@@ -1,0 +1,16 @@
+.footer__column-link {
+    text-decoration: none;
+    transition: opacity 0.4s ease;
+
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 32px;
+
+    color: #FFFFFF;
+}
+
+.footer__column-link:hover {
+    opacity: 0.3;
+}

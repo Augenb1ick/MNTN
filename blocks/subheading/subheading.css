@@ -1,0 +1,15 @@
+.subheading {
+    width: 555px;
+    height: 154px;
+
+    font-family: 'Chronicle Display';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 77px;
+
+    color: #FFFFFF;
+    margin: 0;
+    padding: 0;
+    margin-top: 27px;
+}

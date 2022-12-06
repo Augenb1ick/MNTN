@@ -1,0 +1,7 @@
+.header {
+    height: 1624px;
+    background: no-repeat linear-gradient(330.24deg, rgba(11, 29, 38, 0) 31.06%, #0B1D26 108.93%), linear-gradient(180deg, rgba(11, 29, 38, 0) 70%, #0B1D26 98%), url(../../images/header_bg.png);
+    margin: 0;
+    padding: 0;
+    position: relative;
+}

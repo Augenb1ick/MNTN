@@ -1,0 +1,9 @@
+.page-slider__indicator {
+    background-color: #fff;
+    content: " ";
+    width: 3px;
+    height: 60px;
+    position: absolute;
+    top: 0;
+    transition: 0.3s top ease;
+}

@@ -1,0 +1,14 @@
+.footer__column-heading {
+    font-family: 'Gilroy';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 32px;
+
+    color: #FBD784;
+
+    padding: 0;
+    margin: 0;
+
+    margin-bottom: 24px;
+}
